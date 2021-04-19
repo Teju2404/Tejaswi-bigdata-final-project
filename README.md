@@ -1,12 +1,18 @@
 # Tejaswi-bigdata-final-project
-- Tejaswi Reddy Kandula : Author
+- This repo consists of processing text data using Spark and Python.
+
+## Author:
+- Tejaswi Reddy Kandula 
 
 ## Text Data
-Text Data Source: (TheLittleWarriorbyP.G.Wodehouse)[https://www.gutenberg.org/files/6837/6837-0.txt]
+- Text Data Source: (TheLittleWarriorbyP.G.Wodehouse)[https://www.gutenberg.org/files/6837/6837-0.txt]
 
 ## Tools and Languages:
-Language: Python
-Tools: Pyspark, Databricks Notebook, Pandas, MatPlotLib, Regex, Urllib
+- Language: Python
+- Tools: Pyspark, Databricks Notebook, Pandas, MatPlotLib, Regex, Urllib
+
+## Databrick Community:
+[Databricks](https://community.cloud.databricks.com/?o=738325624314186#notebook/123542383545008/command/900976778029719)
 
 ## Process
 ## Gathering Data
@@ -93,3 +99,4 @@ plt.show()
 # References
 - [Matplotlib](https://dzone.com/articles/types-of-matplotlib-in-python)
 - [Python](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python/)
+- [Dbutils](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-utils)
