@@ -93,8 +93,8 @@ plt.title("Most used words in Little Warrior")
 plt.show()
 ```
 # Charting Results
--![Sorting](https://github.com/Teju2404/tejaswi-bigdata-final-project/blob/main/sort.PNG)
--![Results](https://github.com/Teju2404/tejaswi-bigdata-final-project/blob/main/results.PNG)
+![Sorting](https://github.com/Teju2404/tejaswi-bigdata-final-project/blob/main/sort.PNG)
+![Results](https://github.com/Teju2404/tejaswi-bigdata-final-project/blob/main/results.PNG)
 
 # References
 - [Matplotlib](https://dzone.com/articles/types-of-matplotlib-in-python)
