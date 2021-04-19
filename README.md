@@ -5,7 +5,7 @@
 - Tejaswi Reddy Kandula 
 
 ## Text Data
-- Text Data Source: !(TheLittleWarriorbyP.G.Wodehouse)[https://www.gutenberg.org/files/6837/6837-0.txt]
+- Text Data Source: [TheLittleWarriorbyP.G.Wodehouse](https://www.gutenberg.org/files/6837/6837-0.txt)
 
 ## Tools and Languages:
 - Language: Python
